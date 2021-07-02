@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### GIT URL
+[Acces to this repo](https://github.com/rivalcoba/vue2-vcli-project.git).
